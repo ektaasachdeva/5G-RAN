@@ -35,7 +35,7 @@ Massive MIMO and Beamforming
 
 5G is the fifth generation of cellular network technology designed to fulfill and establish higher data and connectivity requirements from modern society. It gives far superior capabilities compared with previous generations in terms of speed, capacity, latency, and flexibility.The 3 factors of 5G we have already done in the previous repository, Now let's explore the procedure 5G follows.
 
-![image alt](![image 1](https://github.com/user-attachments/assets/0a44c432-1e67-4d5a-ac43-37ab3f4fbf1a)
+![image 1](https://github.com/user-attachments/assets/0a44c432-1e67-4d5a-ac43-37ab3f4fbf1a)
 
 
 
@@ -53,7 +53,7 @@ The 5G radio access network, or RAN, is the part of the 5G network connecting us
 
 •  Radio Unit (RU): Conducts radio frequency processing
 
-![image alt]![image 2](https://github.com/user-attachments/assets/f6a4c6a8-6519-4a73-970a-68f83ba66605)
+![image 2](https://github.com/user-attachments/assets/f6a4c6a8-6519-4a73-970a-68f83ba66605)
 
 
 **User Equipment (UE**)
@@ -71,7 +71,7 @@ Main characteristics of UE over 5G:
 •Provide advanced antenna systems for beamforming
 
  
-![image alt]![image 3 1](https://github.com/user-attachments/assets/28cabae1-4156-4547-a633-75a743badcf7)
+![image 3 1](https://github.com/user-attachments/assets/28cabae1-4156-4547-a633-75a743badcf7)
 
 
 **Application Server (AS)**
@@ -86,7 +86,7 @@ Main functions of AS:
 •PHY
 
 
-![image alt]![image 4 1](https://github.com/user-attachments/assets/6e5cc154-f8f7-4a17-9382-2fc76cbcc46e)
+![image 4 1](https://github.com/user-attachments/assets/6e5cc154-f8f7-4a17-9382-2fc76cbcc46e)
 
 
 **5G Core Network**
@@ -121,7 +121,7 @@ _•Unified Data Management (UDM)_
 UDM stores and manages subscriber data, including user profiles, authentication information, and  subsription details, ensuring secure access to services.
 
 
-![image alt]![image 5 2](https://github.com/user-attachments/assets/27273f95-249f-44b7-9add-91c72f8cb13c)
+![image 5 2](https://github.com/user-attachments/assets/27273f95-249f-44b7-9add-91c72f8cb13c)
 
 
 **Data Transfer Process**
@@ -139,7 +139,7 @@ Data transfer from the UE to the external network in 5G follows a series of step
  -gNodeB transfers data back to the UE
  
 
-![image alt]![image 6 4](https://github.com/user-attachments/assets/7461c49d-37d1-4f57-bc07-6218984d0103)
+![image 6 4](https://github.com/user-attachments/assets/7461c49d-37d1-4f57-bc07-6218984d0103)
 
 
 **Essential Points and Service-Based Architecture**
@@ -155,7 +155,7 @@ The core part of the 5G network uses a service-based architecture (SBA) unlike t
 • Has introduced network slicing and edge computing
 
 
-![image alt]![image 7](https://github.com/user-attachments/assets/61eca495-5403-4934-ac3a-f1220ea37a38)
+![image 7](https://github.com/user-attachments/assets/61eca495-5403-4934-ac3a-f1220ea37a38)
 
 
 **Control Plane and User Plane**
@@ -174,7 +174,7 @@ Control Plane
 •It controls forwarding and quality of service enforcement
 
 
-![image alt]![image 8](https://github.com/user-attachments/assets/123f96ae-12e8-4bba-99e1-8cfa3ae32df7)
+![image 8](https://github.com/user-attachments/assets/123f96ae-12e8-4bba-99e1-8cfa3ae32df7)
 
 
 **Machine-Type Communication (MTC)**
@@ -192,7 +192,7 @@ MTC is a form of data communication between machines that does not need any huma
 •Latency for mission-critical applications
 
 
-![image alt]![images 9 5](https://github.com/user-attachments/assets/83325aa9-48aa-4db0-b045-83140203856b)
+![images 9 5](https://github.com/user-attachments/assets/83325aa9-48aa-4db0-b045-83140203856b)
 
 
 **Important Network Areas and Functions**
@@ -208,7 +208,7 @@ There are some key areas and functions which are built into 5G networks to suppo
 •  SDN enables programmable network control
 
 
-![image alt]![image 10 2](https://github.com/user-attachments/assets/7baf50aa-4ecc-46ea-96ad-ce5495bc2111)
+![image 10 2](https://github.com/user-attachments/assets/7baf50aa-4ecc-46ea-96ad-ce5495bc2111)
 
 
 **Wireless Connectivity**
